@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8?>
+<manifest>
+  <project name="PixelExperience/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="thirteen" />
+  <project name="FWTechn/device_xiaomi_whyred" path="device/xiaomi/whyred" remote="github" revision="thirteen" />
+  <project name="FWTechn/android_kernel_xiaomi_whyred_docker" path="kernel/xiaomi/whyred" remote="github" revision="thirteen" />
+  <project name="FWTechn/vendor_xiaomi_whyred_docker" path="vendor/xiaomi/whyred" remote="github" revision="thirteen" />
